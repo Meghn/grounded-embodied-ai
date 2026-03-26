@@ -1,0 +1,4 @@
+{"timestamp": "2026-03-26T21:55:57Z", "goal": "red_box", "goal_position": [7, 2], "algorithm": "bfs", "actions_planned": 7, "actions_taken": 7, "success": true, "final_position": [7, 2], "elapsed_seconds": 0.9277, "error": ""}
+{"timestamp": "2026-03-26T21:55:58Z", "goal": "bottle", "goal_position": [4, 6], "algorithm": "astar", "actions_planned": 8, "actions_taken": 8, "success": true, "final_position": [4, 6], "elapsed_seconds": 1.0496, "error": ""}
+{"timestamp": "2026-03-26T22:00:29Z", "goal": "red_box", "goal_position": [7, 2], "algorithm": "bfs", "actions_planned": 7, "actions_taken": 7, "success": true, "final_position": [7, 2], "elapsed_seconds": 0.9424, "error": ""}
+{"timestamp": "2026-03-26T22:00:30Z", "goal": "bottle", "goal_position": [4, 6], "algorithm": "astar", "actions_planned": 8, "actions_taken": 8, "success": true, "final_position": [4, 6], "elapsed_seconds": 1.0864, "error": ""}
